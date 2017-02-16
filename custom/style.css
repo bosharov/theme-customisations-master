@@ -1,0 +1,19 @@
+/**
+ * Add any custom CSS here.
+ *
+ * This file will be loaded after all other theme stylesheets.
+ */
+
+/* styling for menu icons */
+/*.main-navigation ul li {
+	width: 100%;
+}
+.fa::before {
+	float: left;
+	margin-top: 8px;
+	width: 30px;
+}
+.main-navigation ul li.fa.fa-lg a {
+	font-family: 'Noto Serif', serif;
+	font-size: 0.8em;
+}*/
